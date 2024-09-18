@@ -1,7 +1,7 @@
 import random
 
 
-#email osmundehi@gmail.com
+#email  osmundehi@gmail.com
 
 # create functions for each levels of difficulty
 def easy():
