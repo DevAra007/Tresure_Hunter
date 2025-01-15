@@ -10,4 +10,4 @@ Maintained and updated game documentation, including mechanics, rules, and story
 
 Feel free to use my code but kindly make a reference.
 Enjoy!
-If you ever win Insane, please send a screenshot to email osmundehi@gmail.com
+If you ever win Insane, please send a screenshot to email DerekAyo01@gmail.com
