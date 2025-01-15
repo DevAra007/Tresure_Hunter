@@ -1,6 +1,5 @@
 import random
 
-
 #email  DerekAyo01@gmail.com
 
 # create functions for each levels of difficulty
@@ -26,7 +25,7 @@ def easy():
                 print("\nYou burned by fire. Game over.")
             elif house_colour == "yellow":
                 print(
-                    "\nYou Win! Just because its easy.\nThink otherwise? Play Medium and lose!!!"
+                    "\nYou Won! Just because its easy.\nThink otherwise? Play Medium and lose!!!"
                 )
             else:
                 print("\nGame Over.")
@@ -66,7 +65,7 @@ def medium():
                 )
             elif house_colour == "yellow":
                 print(
-                    "\nYou Win! And you deserve your treasure. \nHowever win more or lose it all when you play Hard."
+                    "\nYou Won! And you deserve your treasure. \nHowever win more or lose it all when you play Hard."
                 )
             else:
                 print("\nGame Over. \n Hahaha!!! Try again sucker!")
@@ -125,7 +124,7 @@ def hard():
                     )
                 elif house_colour == "yellow":
                     print(
-                        "\nYou Win! And you deserve your treasure. \n Become Immortal by wining INSANE, all Kings and Pirates would bow at your feet."
+                        "\nYou won! And you deserve your treasure. \n Become Immortal by wining INSANE, all Kings and Pirates would bow at your feet."
                     )
                 else:
                     print("\nGame Over. \n Hahaha!!! Try again sucker!")
