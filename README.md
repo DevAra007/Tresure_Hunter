@@ -9,5 +9,4 @@ Provided both onsite and remote user support for game testing and troubleshootin
 Maintained and updated game documentation, including mechanics, rules, and storyline descriptions.
 
 Feel free to use my code but kindly make a reference.
-Enjoy!
-If you ever win Insane, please send a screenshot to email DerekAyo01@gmail.com
+Enjoy and if you ever win Insane, please send a screenshot to email DerekAyo01@gmail.com
